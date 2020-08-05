@@ -20,6 +20,7 @@ Entusiasta das melhores tecnologias de desenvolvimento web e móvel.
 
 <br/>[...] "O aprendizado é continuo e o próximo nível nunca será o último"
 
-[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Gabriel_Dev_)](https://twitter.com/dieegosf) 
+[![Twitter Badge](https://img.shields.io/badge/-@Gabriel_Dev_-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Gabriel_Dev_)](https://twitter.com/Gabriel_Dev_) 
+
 [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel--jesus/
 /)](https://www.linkedin.com/in/diego-schell-fernandes/) 
