@@ -1,4 +1,4 @@
-## Olá Pesssoaall!!! 👋 Sou apaixonado por T.I 💻
+## Olá Pesssoaall!!! 👋 Prazer, 💻
 
 <br/>Sou desenvolvedor Mobile e WEB.
 <br/>Para entrar em contato;
@@ -11,7 +11,7 @@ Entusiasta das melhores tecnologias de desenvolvimento web e móvel.
 <br/>Pretendo atuar como Desenvolvedor utilizando as stacks <strong>ReactJs NodeJS e React-Native</strong> 🙌
 
 <br/>*Um pouco Sobre mim...
-<br/>Curto muito tecnologias, sempre fui apaixonado desde muito novo e sempre quis saber como aquela determinada coisa funcionava. Curto muito uma roda de Samba, inclusive como hobby toco um cavaquinho e sou musico freelancer as vezes, manjo bem pouco de violão, mas tento... hahaha Curto seriado na netflix e outras plataformas de streaming, adoro ação, suspense e terror...
+<br/>Curto muito tecnologia, sempre fui apaixonado desde muito novo e sempre quis saber como aquela determinada coisa funcionava. Curto muito uma roda de Samba, inclusive como hobby toco um cavaquinho e sou musico freelancer as vezes, manjo bem pouco de violão, mas tento... hahaha Curto seriado na netflix e outras plataformas de streaming, adoro ação, suspense e terror...
 <br/>-🚫 Não consumo nenhum tipo de bebida álcolica
 <br/>-🚫 Nem cigarros de nenhum tipo...
 <br/>- Vejo a vida sempre com bons olhos... 🚀 💡
