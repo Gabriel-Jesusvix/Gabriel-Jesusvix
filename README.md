@@ -1,6 +1,6 @@
 ## Olá Pesssoaall!!! 👋 Prazer, 💻
 
-<br/>Sou desenvolvedor Mobile e WEB.
+<br/>Sou desenvolvedor Mobile.
 <br/>Para entrar em contato;
 <br/>Linkedin: https://www.linkedin.com/in/gabriel--jesus/
 <br/>Skype: https://join.skype.com/invite/yv5G9N5QUtGA
