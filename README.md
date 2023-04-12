@@ -5,7 +5,7 @@
 
 
 ### Enthusiast of the best web & mobile development technologies. 
-
+<p>CTO @gj_consultoriati</p>
 
 #
 
