@@ -11,7 +11,7 @@
 
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=GJCONSULTORIATI.me&logoColor=white)](https://www.gjconsultoriati.com.br/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel--jesus/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gj_consultoriati/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gjconsultoriati/)
 
 #
 
