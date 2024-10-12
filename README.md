@@ -7,17 +7,13 @@
 ### Enthusiast of the best web & mobile development technologies. 
 <p>CEO @gjconsultoriati</p>
 
-#
-
-[![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=GJCONSULTORIATI.me&logoColor=white)](https://www.gjconsultoriati.com.br/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel--jesus/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gjconsultoriati/)
-
-#
 
 </br>
 
+## 📊 GitHub Stats
+
 ![Gabriel Jesus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Jesusvix&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Jesusvix&layout=compact&theme=dracula)
 
 </br>
 
@@ -38,3 +34,22 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 <br><br>
+## 🚀 My Product: Bolsiin ( building )
+
+**Bolsiin** is a personal finance management app designed to help individuals track their expenses, manage budgets, and gain insights into their financial health. The app aims to simplify the process of financial management with intuitive graphs, personalized categories, and real-time tracking of income and expenses.
+
+- 📱 **Key Features:**
+  - Easy-to-use expense tracking
+  - Customizable categories for budgeting
+  - Detailed financial insights with charts and graphs
+  - other features
+
+Stay tuned for the official release! 🚀
+<br><br>
+
+## 📫 Get in Touch
+
+- LinkedIn: [Gabriel Jesus](https://www.linkedin.com/in/gabriel--jesus/)
+- Email: [gjconsultoriati@gmail.com](mailto:gjconsultoriati@gmail.com)
+- Instagram: [@gjconsultoriati](https://www.instagram.com/gjconsultoriati/)
+
